@@ -1,6 +1,6 @@
 # The art of Writing MIPS
 A quick overview about all main topics of this programming language
 
-Chapter 1 : Preface: Why you should try this book
+Chapter 1 : Preface: In this Chapter you will find all details about how to use this book and why i am **using unconventional approach**  
 
-Chapter 2 : Program File Structure 
+Chapter 2 : IDE and File Structure: In this chapter you will find the direct link to download the "IDE" and also i introduce the first concept about the file structure.
